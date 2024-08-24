@@ -73,7 +73,7 @@
     <h2>License</h2>
     <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a>.</p>
     <h2>Contact</h2>
-    <p>For any questions or inquiries about this project, please contact: <a href="mailto:sayyedsy2001@gmail.com">sayyedsy2001@gmail.com</a></p>
+    <p>For any questions or inquiries about this project, please contact.</p>
     <h2>Tools and Technologies Used</h2>
     <ul>
         <li>Python: For data manipulation, analysis, and visualization.</li>
